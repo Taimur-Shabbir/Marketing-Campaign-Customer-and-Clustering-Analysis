@@ -22,9 +22,9 @@ In this case, our marketing campaign offers a discount on certain products to cu
 
 ## Data
 
-**Data source**: This data is obtained from Kaggle and can be found in the Git repository\
+**Data source**: This data is obtained from Kaggle and can be found in the Git repository
 
-**Observations**: It contains 2216 observations where each observation represents a customer who converted or did not convert\
+**Observations**: It contains 2216 observations where each observation represents a customer who converted or did not convert
 
 **Features**: There are 35 features in total with a mix of interval and categorical data types. A few examples are:
 
