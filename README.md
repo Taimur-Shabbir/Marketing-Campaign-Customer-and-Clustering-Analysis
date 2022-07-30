@@ -118,14 +118,19 @@ Interestingly, a single cluster (cluster 2) contained contained all 333 customer
 
 - Have 3 teens per 10 homes on average. So while these customers are not completely teen-less, they tend to live with fewer teens on average than customers in other clusters [specifically Cluster 3 (about 7 teens per 10 homes) and Cluster 2 (more than 1 teen per home)]
 
-- Spend the most on wine per month at $502
+- Spent the most on wine in the last 2 years at $502
 
-- Spend the most on meat products per month at $294
+- Spent the most on meat products in the last 2 at $294
 
-- Spend the second most on gold products per month a $61, with customers in Cluster 3 spending the most ($66)
+- Spent the second most on gold products in the last 2 years a $61, with customers in Cluster 3 spending the most ($66)
 
 - Make the most purchases through catalogues at 4.2. The frequency of purchase is not listed in the meta information of the dataset, but it is reasonable to assume in the absence of information that points otherwise that this frequency is monthly
 
 - Make the most purchases through the Web at 5. Again, this is assuming a monthly figure
 
 - Are usually among our oldest customers (in terms of how long they've been with the company, not their Age), with an average of 449 days since their first purchase. However, they are not the 'oldest' group of customers. Those belong to cluster 3 which, it should be reiterated, did not have a single customer convert
+
+
+# Conclusions
+
+The overall conclusion seems to be that our wealthiest, highest-spending, longest-tenured customers who live alone respond best to this type of marketing campaign. This suggests that for future iterations of this campaign, only these customers should be targeted.
