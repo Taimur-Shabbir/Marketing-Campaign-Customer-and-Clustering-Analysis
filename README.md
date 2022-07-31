@@ -22,7 +22,7 @@ In this case, our marketing campaign offers a discount on certain products to cu
 
 ## Data
 
-**Data source**: This data is obtained from Kaggle and can be found in the Git repository
+**Data source**: This data is obtained from [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign), is provided by user [Rodolfo Saldanha](https://www.kaggle.com/rodsaldanha) and can be found in the Git repository
 
 **Observations**: It contains 2216 observations where each observation represents a customer who converted or did not convert
 
@@ -54,7 +54,7 @@ In this case, our marketing campaign offers a discount on certain products to cu
 
 ## Data Cleaning
 
-The dataset is fairy complete with only 24 values missing for the 'Income' variable. These rows were subsequently dropped because the loss in data is miniscule. A check for extreme values highlighted 3 customers whose ages were 121, 115 and 114. These values seemed very unlikely but I did not remove them as, again, they represent only a vanishingly small proportion of the data\
+The dataset is fairly complete with only 24 values missing for the 'Income' variable. These rows were subsequently dropped because the loss in data is miniscule. A check for extreme values highlighted 3 customers whose ages were 121, 115 and 114. These values seemed very unlikely but I did not remove them as, again, they represent only a vanishingly small proportion of the data\
 
 On the whole, the dataset is fairly clean.
 
